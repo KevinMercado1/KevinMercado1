@@ -32,16 +32,6 @@ Independent web development focusing on structure, clean code, and user experien
 
 ---
 
-### 📊 GitHub Activities
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinMercado1&show_icons=true&theme=tokyonight" alt="Kevin's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMercado1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🕹️ Beyond the Code
 - **Gaming Enthusiast:** Video games are my main hobby and the reason I started my path in software development.
 - **Builder Mindset:** I love creating tools from scratch to solve everyday problems.
