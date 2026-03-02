@@ -1,57 +1,71 @@
-# Hi there! I'm Kevin Mercado 👋
-### 🚀 Aspiring Backend Developer | Software Developer in Training
+# ⚡ Kevin Mercado | Backend Developer & Software Engineer
 
-I am a passionate developer currently building my career in the tech world. My journey started with a fascination for video games, which evolved into a deep interest in how complex systems work behind the scenes. Currently, I am focused on mastering **Backend Architectures** and scalable solutions.
+<p align="left">
+  <a href="https://portfolio-kevinmercado.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="[TU_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
----
-
-### 🛠️ My Tech Stack
-
-| **Area** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![ReactNative](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
-| **Tools & More** | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+I am a **Software Developer** focused on building high-performance server-side applications. Currently, I am specializing in **Backend Architectures**, API design, and cloud scalability. My approach combines clean code principles with modern technologies like **TypeScript**, **Node.js**, and **Docker**.
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ Technical Stack
 
-#### 🌐 [Personal Portfolio](https://portfolio-kevinmercado.netlify.app)
-My digital resume showcasing my skills, journey, and the web projects I've built.
-- **Technologies:** React, JavaScript, CSS, Netlify.
-- **Key Focus:** Clean UI, Responsive Design, and Performance.
+#### **Core Backend & Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-#### 🏧 [ATM Simulation Project](https://github.com/KevinMercado1/ATM-Project) 
-A logic-based application developed in **Python** that simulates real-world banking operations.
-- **Learning Outcome:** Applied core programming principles, data validation, and logic flow.
+#### **Data & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</p>
 
-#### 🏗️ [Web Page Project](https://github.com/KevinMercado1)
-Independent web development focusing on structure, clean code, and user experience using modern frameworks.
-
----
-
-### 📊 GitHub Activities
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinMercado1&show_icons=true&theme=tokyonight" alt="Kevin's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMercado1&layout=compact&theme=tokyonight" alt="Top Languages" />
+#### **Frontend Ecosystem**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
 ---
 
-### 🕹️ Beyond the Code
-- **Gaming Enthusiast:** Video games are my main hobby and the reason I started my path in software development.
-- **Builder Mindset:** I love creating tools from scratch to solve everyday problems.
-- **Continuous Learner:** Currently diving deep into **Backend Design Patterns** and **Scalable Systems**.
+### 📂 Featured Work
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[ATM System](https://github.com/KevinMercado1/ATM-Project)** | Core logic for banking transactions and user flow. | `Python` |
+| **[Professional Portfolio](https://portfolio-kevinmercado.netlify.app)** | Responsive personal brand site with modern UI/UX. | `React` `JS` `Netlify` |
+| **Open Source Contributor** | Collaborating on scalable web solutions and logic optimization. | `TypeScript` `Node.js` |
 
 ---
 
-### 📫 Let's Connect!
-- 🌐 **Portfolio:** [portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+### 📊 Professional Metrics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KevinMercado1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMercado1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
-*"Turning logic into solutions, one line of code at a time."*
+
+### 🕹️ About Me
+- 🎮 **Gaming Enthusiast:** My interest in software started with the desire to understand how games are built.
+- ⚙️ **Self-Driven:** I enjoy architecting systems from zero to production.
+- 📚 **Continuous Learning:** Deepening my knowledge in **Backend Design Patterns** and **Microservices**.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
