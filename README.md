@@ -11,18 +11,17 @@
 ---
 
 ### 💻 `$ whoami`
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=110&section=header&text=Passionate%20developer%20building%20scalable%20backend%20solutions.&fontSize=18&fontColor=61DAFB&animation=fadeIn" width="100%" />
-</p>
-<p align="center">
-  <em>"Fascinated by how complex systems work behind the scenes and turning business logic into robust architectures."</em>
-</p>
+<div align="center">
+  <p><em>"Passionate developer building my career in the tech world. Fascinated by how complex systems work behind the scenes and focused on mastering <b>Backend Architectures</b> and scalable solutions."</em></p>
+</div>
 
 ---
 
 ### ⚡ Stacks & Tooling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,redux,mongodb,postgresql,graphql,docker,git,linux&perline=7" />
+  <br><br>
+  <img src="https://img.shields.io/badge/-Thunder_Client-833AB4?style=for-the-badge&logo=thunder-client&logoColor=white" />
 </p>
 
 ---
