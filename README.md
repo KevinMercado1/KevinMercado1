@@ -1,8 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Kevin+Mercado" alt="Hi there! I'm Kevin Mercado" />
-</h1>
+<h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=%3E+Aspiring+Backend+Developer;%3E+Software+Developer+in+Training;%3E+Turning+logic+into+scalable+solutions..." alt="Typing SVG" />
+  <code>> Aspiring Backend Developer | Software Developer in Training | Turning logic into scalable systems</code>
 </p>
 
 <p align="center">
@@ -41,7 +39,7 @@
 
 ### 📂 Featured Projects (Top 5)
 
-> ### 🌐 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=61DAFB&vCenter=true&width=220&lines=01.+Personal+Portfolio" />
+> ### 🌐 01. Personal Portfolio
 > My digital resume showcasing my skills, journey, and the web projects I've built.
 > 
 > 🛠 **Tech Stack:**  
@@ -52,7 +50,7 @@
 
 <br>
 
-> ### 🛸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=F7DF1E&vCenter=true&width=260&lines=02.+Rick+and+Morty+SPA" /> <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
+> ### 🛸 02. Rick and Morty SPA <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
 > A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.
 > 
 > 🛠 **Tech Stack:**  
@@ -63,7 +61,7 @@
 
 <br>
 
-> ### 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=339933&vCenter=true&width=180&lines=03.+DevTrack" /> <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
+> ### 📊 03. DevTrack <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
 > A collaborative tracking tool designed to help developers organize tasks and monitor productivity.
 > 
 > 🛠 **Tech Stack:**  
@@ -74,7 +72,7 @@
 
 <br>
 
-> ### 🏧 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=FF6F61&vCenter=true&width=240&lines=04.+ATM+Simulation" />
+> ### 🏧 04. ATM Simulation
 > A logic-based application developed to simulate real-world banking and ATM operations.
 > 
 > 🛠 **Tech Stack:**  
@@ -85,7 +83,7 @@
 
 <br>
 
-> ### 💳 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=BA55D3&vCenter=true&width=160&lines=05.+Banco+K" />
+> ### 💳 05. Banco K
 > A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.
 > 
 > 🛠 **Tech Stack:**  
@@ -115,5 +113,5 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=339933&center=true&vCenter=true&width=500&lines=%22Turning+logic+into+solutions%2C+one+line+of+code+at+a+time.%22" alt="Typing SVG" />
+  <code>"Turning logic into solutions, one line of code at a time."</code>
 </p>
