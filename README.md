@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+👋+I'm+Kevin+Mercado;Welcome+to+my+terminal...;Building+backend+solutions..." alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <code>guest@kevin-mercado:~$ whoami</code>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=%3E+Aspiring+Backend+Developer;%3E+Software+Developer+in+Training;%3E+Turning+logic+into+scalable+solutions..." alt="Typing SVG" />
