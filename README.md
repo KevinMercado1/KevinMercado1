@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Kevin+Mercado" alt="Hi there! I'm Kevin Mercado" />
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=%3E+Aspiring+Backend+Developer;%3E+Software+Developer+in+Training;%3E+Turning+logic+into+scalable+solutions..." alt="Typing SVG" />
 </p>
@@ -102,6 +104,16 @@
 ---
 
 ### 🔌 Connect & Contact
-```bash
-# How to reach me:
-$ open portfolio: [https://portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)
+<p align="center">
+  <a href="https://portfolio-kevinmercado.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://github.com/KevinMercado1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=339933&center=true&vCenter=true&width=500&lines=%22Turning+logic+into+solutions%2C+one+line+of+code+at+a+time.%22" alt="Typing SVG" />
+</p>
