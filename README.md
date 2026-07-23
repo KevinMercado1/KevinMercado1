@@ -1,4 +1,7 @@
-<h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+👋+I'm+Kevin+Mercado;Welcome+to+my+terminal...;Building+backend+solutions..." alt="Typing SVG" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=%3E+Aspiring+Backend+Developer;%3E+Software+Developer+in+Training;%3E+Turning+logic+into+scalable+solutions..." alt="Typing SVG" />
 </p>
@@ -37,9 +40,20 @@
 
 ---
 
-### 📂 Featured Projects (Top 5)
+### 📂 Featured Projects (Top 6)
 
-> ### 🌐 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=61DAFB&vCenter=true&width=220&lines=01.+Personal+Portfolio" />
+> ### 🛒 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=38BDF8&vCenter=true&width=240&lines=01.+E-commerce+Platform" />
+> E-commerce platform featuring secure authentication, database management, and file uploads.
+> 
+> 🛠 **Tech Stack:**  
+> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" /> <img src="https://img.shields.io/badge/Bcryptjs-FF6F61?style=flat-square&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/Multer-orange?style=flat-square&logo=files&logoColor=white" /> <img src="https://img.shields.io/badge/CORS-yellow?style=flat-square&logo=cors&logoColor=black" />
+> 
+> 🎯 **Key Focus:** Secure authentication, middleware handling, and backend architecture.  
+> 📦 **[Repository](https://github.com/KevinMercado1/ecommerce.git)**
+
+<br>
+
+> ### 🌐 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=61DAFB&vCenter=true&width=220&lines=02.+Personal+Portfolio" />
 > My digital resume showcasing my skills, journey, and the web projects I've built.
 > 
 > 🛠 **Tech Stack:**  
@@ -50,7 +64,7 @@
 
 <br>
 
-> ### 🛸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=F7DF1E&vCenter=true&width=260&lines=02.+Rick+and+Morty+SPA" /> <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
+> ### 🛸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=F7DF1E&vCenter=true&width=260&lines=03.+Rick+and+Morty+SPA" /> <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
 > A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.
 > 
 > 🛠 **Tech Stack:**  
@@ -61,7 +75,7 @@
 
 <br>
 
-> ### 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=339933&vCenter=true&width=180&lines=03.+DevTrack" /> <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
+> ### 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=339933&vCenter=true&width=180&lines=04.+DevTrack" /> <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
 > A collaborative tracking tool designed to help developers organize tasks and monitor productivity.
 > 
 > 🛠 **Tech Stack:**  
@@ -72,7 +86,7 @@
 
 <br>
 
-> ### 🏧 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=FF6F61&vCenter=true&width=240&lines=04.+ATM+Simulation" />
+> ### 🏧 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=FF6F61&vCenter=true&width=240&lines=05.+ATM+Simulation" />
 > A logic-based application developed to simulate real-world banking and ATM operations.
 > 
 > 🛠 **Tech Stack:**  
@@ -83,7 +97,7 @@
 
 <br>
 
-> ### 💳 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=BA55D3&vCenter=true&width=160&lines=05.+Banco+K" />
+> ### 💳 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=BA55D3&vCenter=true&width=160&lines=06.+Banco+K" />
 > A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.
 > 
 > 🛠 **Tech Stack:**  
