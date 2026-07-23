@@ -29,8 +29,8 @@
 > ### 🌐 01. Personal Portfolio
 > My digital resume showcasing my skills, journey, and the web projects I've built.
 > 
-> 🛠 **Tech Stack:** 
-> `![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)` `![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)` `![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)` `![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)`
+> 🛠 **Tech Stack:**  
+> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 > 
 > 🎯 **Key Focus:** Clean UI, Responsive Design, and Performance.  
 > 🔗 **[Live Demo](https://portfolio-kevinmercado.netlify.app)** | 📦 **[Repository](https://github.com/KevinMercado1)**
@@ -40,8 +40,8 @@
 > ### 🛸 02. Rick and Morty SPA <sub style="color: #339933;">*(Collaboration)*</sub>
 > A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.
 > 
-> 🛠 **Tech Stack:** 
-> `![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)` `![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)` `![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)` `![REST API](https://img.shields.io/badge/-REST_API-005571?logo=postman&logoColor=white)`
+> 🛠 **Tech Stack:**  
+> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-REST_API-005571?style=flat-square&logo=postman&logoColor=white" />
 > 
 > 🎯 **Key Focus:** DOM manipulation, Asynchronous JavaScript, and team workflow.  
 > 📦 **[Repository](https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS)**
@@ -51,8 +51,8 @@
 > ### 📊 03. DevTrack <sub style="color: #339933;">*(Collaboration)*</sub>
 > A collaborative tracking tool designed to help developers organize tasks and monitor productivity.
 > 
-> 🛠 **Tech Stack:** 
-> `![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)` `![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)` `![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)`
+> 🛠 **Tech Stack:**  
+> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 > 
 > 🎯 **Key Focus:** Collaborative problem solving, modular code structure, and feature integration.  
 > 📦 **[Repository](https://github.com/sebarebar/DevTrack)**
@@ -62,8 +62,8 @@
 > ### 🏧 04. ATM Simulation Project
 > A logic-based application developed to simulate real-world banking and ATM operations.
 > 
-> 🛠 **Tech Stack:** 
-> `![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)`
+> 🛠 **Tech Stack:**  
+> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 > 
 > 🎯 **Key Focus:** Core programming principles, data validation, and complex logical flow control.  
 > 📦 **[Repository](https://github.com/KevinMercado1/ATM-Project)**
@@ -73,8 +73,8 @@
 > ### 💳 05. Banco K
 > A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.
 > 
-> 🛠 **Tech Stack:** 
-> `![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)` `![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)` `![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)` `![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)` `![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)` `![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white)`
+> 🛠 **Tech Stack:**  
+> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
 > 
 > 🎯 **Key Focus:** Secure authentication (bcrypt/JWT), RESTful API integration, and relational database handling.  
 > 📦 **[Repository](https://github.com/KevinMercado1/bancoK)**
