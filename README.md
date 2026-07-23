@@ -19,14 +19,16 @@
 
 ### ⚡ Stacks & Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,redux,mongodb,postgresql,graphql,docker,git,linux,thunderclient&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,redux,mongodb,postgresql,graphql,docker,git,linux" />
+  <br><br>
+  <img src="https://img.shields.io/badge/-Thunder_Client-833AB4?style=for-the-badge&logo=thunder-client&logoColor=white" />
 </p>
 
 ---
 
 ### 📂 Featured Projects (Top 5)
 
-> ### 🌐 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=61DAFB&vCenter=true&width=220&lines=01.+Personal+Portfolio&v=1" />
+> ### 🌐 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=61DAFB&vCenter=true&width=220&lines=01.+Personal+Portfolio&v=2" />
 > My digital resume showcasing my skills, journey, and the web projects I've built.
 > 
 > **🛠 Tech Stack:**  
@@ -37,7 +39,7 @@
 
 <br>
 
-> ### 🛸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=F7DF1E&vCenter=true&width=260&lines=02.+Rick+and+Morty+SPA&v=1" /> <img src="https://img.shields.io/badge/⚡_COLLAB-Team_Work-orange?style=flat-square" />
+> ### 🛸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=F7DF1E&vCenter=true&width=260&lines=02.+Rick+and+Morty+SPA&v=2" /> <img src="https://img.shields.io/badge/⚡_COLLAB-Team_Work-orange?style=flat-square" />
 > A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.
 > 
 > **🛠 Tech Stack:**  
@@ -48,7 +50,7 @@
 
 <br>
 
-> ### 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=339933&vCenter=true&width=180&lines=03.+DevTrack&v=1" /> <img src="https://img.shields.io/badge/⚡_COLLAB-Team_Work-orange?style=flat-square" />
+> ### 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=339933&vCenter=true&width=180&lines=03.+DevTrack&v=2" /> <img src="https://img.shields.io/badge/⚡_COLLAB-Team_Work-orange?style=flat-square" />
 > A collaborative tracking tool designed to help developers organize tasks and monitor productivity.
 > 
 > **🛠 Tech Stack:**  
@@ -59,7 +61,7 @@
 
 <br>
 
-> ### 🏧 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=FF6F61&vCenter=true&width=240&lines=04.+ATM+Simulation&v=1" />
+> ### 🏧 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=FF6F61&vCenter=true&width=240&lines=04.+ATM+Simulation&v=2" />
 > A logic-based application developed to simulate real-world banking and ATM operations.
 > 
 > **🛠 Tech Stack:**  
@@ -70,11 +72,11 @@
 
 <br>
 
-> ### 💳 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=BA55D3&vCenter=true&width=160&lines=05.+Banco+K&v=1" />
+> ### 💳 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=BA55D3&vCenter=true&width=160&lines=05.+Banco+K&v=2" />
 > A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.
 > 
 > **🛠 Tech Stack:**  
-> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/--PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
 > 
 > **🎯 Key Focus:** Secure authentication (bcrypt/JWT), RESTful API integration, and relational database handling.  
 > 📦 **[Repository](https://github.com/KevinMercado1/bancoK)**
