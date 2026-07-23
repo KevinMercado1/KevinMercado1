@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=500&lines=%3E+Aspiring+Backend+Developer;%3E+Software+Developer+in+Training;%3E+Turning+logic+into+solutions..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=%3E+Aspiring+Backend+Developer;%3E+Software+Developer+in+Training;%3E+Turning+logic+into+solutions..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,21 +17,7 @@ I am a passionate developer currently building my career in the tech world. My j
 
 ### ⚡ Stacks & Tooling
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a> 
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a> 
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a> 
-  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /></a>
-  <br/>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></a> 
-  <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a> 
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a> 
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <br/>
-  <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a> 
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,redux,mongodb,postgresql,graphql,docker,git,linux&perline=7" />
 </p>
 
 ---
@@ -71,9 +57,9 @@ I am a passionate developer currently building my career in the tech world. My j
 <br>
 
 > ### 💳 05. Banco K
-> A banking application project focused on monetary logic, transaction processing, and account management structures.
-> * **Tech Stack:** `JavaScript` *(o ajusta según lo que uses en el repo)*
-> * **Key Focus:** Business logic, data handling, and structural architecture.
+> A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.
+> * **Tech Stack:** `Node.js` `Express` `PostgreSQL` `React` `TailwindCSS` `Docker` `JWT`
+> * **Key Focus:** Secure authentication (bcrypt/JWT), RESTful API integration, and relational database handling.
 > * 📦 [Repository](https://github.com/KevinMercado1/bancoK)
 
 ---
@@ -96,4 +82,3 @@ I am a passionate developer currently building my career in the tech world. My j
 ```bash
 # How to reach me:
 $ open portfolio: [https://portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)
-$ send email:     tu-correo@example.com
