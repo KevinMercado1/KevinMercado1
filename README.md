@@ -11,17 +11,15 @@
 ---
 
 ### 💻 `$ whoami`
-<div align="center">
-  <p><em>"Passionate developer building my career in the tech world. Fascinated by how complex systems work behind the scenes and focused on mastering <b>Backend Architectures</b> and scalable solutions."</em></p>
-</div>
+<p align="center">
+  <code>Passionate developer building scalable backend solutions. Fascinated by how complex systems work behind the scenes and focused on mastering robust architectures.</code>
+</p>
 
 ---
 
 ### ⚡ Stacks & Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,redux,mongodb,postgresql,graphql,docker,git,linux&perline=7" />
-  <br><br>
-  <img src="https://img.shields.io/badge/-Thunder_Client-833AB4?style=for-the-badge&logo=thunder-client&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,redux,mongodb,postgresql,graphql,docker,git,linux,thunderclient&perline=7" />
 </p>
 
 ---
@@ -39,7 +37,7 @@
 
 <br>
 
-> ### 🛸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=F7DF1E&vCenter=true&width=260&lines=02.+Rick+and+Morty+SPA" /> <sub style="color: #339933;">*(Collaboration)*</sub>
+> ### 🛸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=F7DF1E&vCenter=true&width=260&lines=02.+Rick+and+Morty+SPA" /> <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square&logo=users&logoColor=white" />
 > A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.
 > 
 > 🛠 **Tech Stack:**  
@@ -50,7 +48,7 @@
 
 <br>
 
-> ### 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=339933&vCenter=true&width=180&lines=03.+DevTrack" /> <sub style="color: #339933;">*(Collaboration)*</sub>
+> ### 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=339933&vCenter=true&width=180&lines=03.+DevTrack" /> <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square&logo=users&logoColor=white" />
 > A collaborative tracking tool designed to help developers organize tasks and monitor productivity.
 > 
 > 🛠 **Tech Stack:**  
