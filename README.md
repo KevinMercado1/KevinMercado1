@@ -41,7 +41,6 @@ Independent web development focusing on structure, clean code, and user experien
 
 ### 📫 Let's Connect!
 - 🌐 **Portfolio:** [portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
 
 ---
 *"Turning logic into solutions, one line of code at a time."*
