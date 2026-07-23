@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
 <p align="center">
-  <code>> Aspiring Backend Developer | Software Developer in Training | Turning logic into scalable systems</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=%3E+Aspiring+Backend+Developer;%3E+Software+Developer+in+Training;%3E+Turning+logic+into+scalable+solutions..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ### 📂 Featured Projects (Top 5)
 
-> ### 🌐 01. Personal Portfolio
+> ### 🌐 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=61DAFB&vCenter=true&width=220&lines=01.+Personal+Portfolio" />
 > My digital resume showcasing my skills, journey, and the web projects I've built.
 > 
 > 🛠 **Tech Stack:**  
@@ -50,7 +50,7 @@
 
 <br>
 
-> ### 🛸 02. Rick and Morty SPA <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
+> ### 🛸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=F7DF1E&vCenter=true&width=260&lines=02.+Rick+and+Morty+SPA" /> <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
 > A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.
 > 
 > 🛠 **Tech Stack:**  
@@ -61,7 +61,7 @@
 
 <br>
 
-> ### 📊 03. DevTrack <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
+> ### 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=339933&vCenter=true&width=180&lines=03.+DevTrack" /> <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
 > A collaborative tracking tool designed to help developers organize tasks and monitor productivity.
 > 
 > 🛠 **Tech Stack:**  
@@ -72,7 +72,7 @@
 
 <br>
 
-> ### 🏧 04. ATM Simulation
+> ### 🏧 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=FF6F61&vCenter=true&width=240&lines=04.+ATM+Simulation" />
 > A logic-based application developed to simulate real-world banking and ATM operations.
 > 
 > 🛠 **Tech Stack:**  
@@ -83,7 +83,7 @@
 
 <br>
 
-> ### 💳 05. Banco K
+> ### 💳 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=500&color=BA55D3&vCenter=true&width=160&lines=05.+Banco+K" />
 > A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.
 > 
 > 🛠 **Tech Stack:**  
@@ -95,21 +95,25 @@
 ---
 
 ### 🕹️ Beyond the Code
-- **🎮 Gaming Enthusiast:** Video games are my main hobby and the reason I started my path in software development.
-- **🛠️ Builder Mindset:** I love creating tools from scratch to solve everyday problems.
-- **📚 Continuous Learner:** Currently diving deep into **Backend Design Patterns** and **Scalable Systems**.
+> ### 🎮 **Gaming Enthusiast**
+> Video games are my main hobby and the reason I started my path in software development.
+
+> ### 🛠️ **Builder Mindset**
+> I love creating tools from scratch to solve everyday problems.
+
+> ### 📚 **Continuous Learner**
+> Currently diving deep into **Backend Design Patterns** and **Scalable Systems**.
 
 ---
 
 ### 🔌 Connect & Contact
-<p align="center">
-  <a href="https://portfolio-kevinmercado.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://github.com/KevinMercado1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+> ### 🌐 **Portfolio**
+> Explore my personal portfolio showcasing my web projects and skills.  
+> 🔗 **[portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)**
+
+> ### 🐱 **GitHub**
+> Check out my repositories, contributions, and code activity.  
+> 🔗 **[@KevinMercado1](https://github.com/KevinMercado1)**
 
 ---
 <p align="center">
