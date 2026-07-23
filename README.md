@@ -24,43 +24,13 @@ I am a passionate developer currently building my career in the tech world. My j
 
 ### 📂 Featured Projects (Top 5)
 
-> ### 🌐 01. Personal Portfolio
-> My digital resume showcasing my skills, journey, and the web projects I've built.
-> * **Tech Stack:** `React` `JavaScript` `CSS` `Netlify`
-> * **Key Focus:** Clean UI, Responsive Design, and Performance.
-> * 🔗 [Live Demo](https://portfolio-kevinmercado.netlify.app) | 📦 [Repository](https://github.com/KevinMercado1)
-
-<br>
-
-> ### 🛸 02. Rick and Morty SPA *(Collaboration)*
-> A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.
-> * **Tech Stack:** `JavaScript (Vanilla)` `HTML/CSS` `REST API`
-> * **Key Focus:** DOM manipulation, Asynchronous JavaScript, and team workflow.
-> * 📦 [Repository](https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS)
-
-<br>
-
-> ### 📊 03. DevTrack *(Collaboration)*
-> A collaborative tracking tool designed to help developers organize tasks and monitor productivity.
-> * **Tech Stack:** `JavaScript` `HTML/CSS` `Git/GitHub`
-> * **Key Focus:** Collaborative problem solving, modular code, and feature integration.
-> * 📦 [Repository](https://github.com/sebarebar/DevTrack)
-
-<br>
-
-> ### 🏧 04. ATM Simulation Project
-> A logic-based application developed to simulate real-world banking and ATM operations.
-> * **Tech Stack:** `Python`
-> * **Key Focus:** Core programming principles, data validation, and complex logical flow.
-> * 📦 [Repository](https://github.com/KevinMercado1/ATM-Project)
-
-<br>
-
-> ### 💳 05. Banco K
-> A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.
-> * **Tech Stack:** `Node.js` `Express` `PostgreSQL` `React` `TailwindCSS` `Docker` `JWT`
-> * **Key Focus:** Secure authentication (bcrypt/JWT), RESTful API integration, and relational database handling.
-> * 📦 [Repository](https://github.com/KevinMercado1/bancoK)
+| Project | Description & Details | Links |
+| :--- | :--- | :--- |
+| **🌐 01. Personal Portfolio** | My digital resume showcasing my skills, journey, and the web projects I've built.<br>`React` `JavaScript` `CSS` `Netlify`<br>*Key Focus: Clean UI, Responsive Design, and Performance.* | 🔗 [Live Demo](https://portfolio-kevinmercado.netlify.app)<br>📦 [Repository](https://github.com/KevinMercado1) |
+| **🛸 02. Rick and Morty SPA** *(Collab)* | A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing.<br>`JavaScript` `HTML/CSS` `REST API`<br>*Key Focus: DOM manipulation & Async JS.* | 📦 [Repository](https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS) |
+| **📊 03. DevTrack** *(Collab)* | A collaborative tracking tool designed to help developers organize tasks and monitor productivity.<br>`JavaScript` `HTML/CSS` `Git/GitHub`<br>*Key Focus: Modular code & team workflow.* | 📦 [Repository](https://github.com/sebarebar/DevTrack) |
+| **🏧 04. ATM Simulation** | A logic-based application developed to simulate real-world banking and ATM operations.<br>`Python`<br>*Key Focus: Data validation & logical flow.* | 📦 [Repository](https://github.com/KevinMercado1/ATM-Project) |
+| **💳 05. Banco K** | Comprehensive banking app featuring user authentication, database management, and a modern responsive UI.<br>`Node.js` `Express` `PostgreSQL` `React` `Tailwind` `Docker` `JWT`<br>*Key Focus: Secure Auth & Relational DB.* | 📦 [Repository](https://github.com/KevinMercado1/bancoK) |
 
 ---
 
@@ -68,13 +38,6 @@ I am a passionate developer currently building my career in the tech world. My j
 - **🎮 Gaming Enthusiast:** Video games are my main hobby and the reason I started my path in software development.
 - **🛠️ Builder Mindset:** I love creating tools from scratch to solve everyday problems.
 - **📚 Continuous Learner:** Currently diving deep into **Backend Design Patterns** and **Scalable Systems**.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinMercado1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ---
 
