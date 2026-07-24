@@ -13,12 +13,17 @@
 
 ### 💻 `$ whoami`
 <p align="center">
-  <code>Passionate developer building scalable backend solutions. Fascinated by how complex systems work behind the scenes and focused on mastering robust architectures.</code>
+  <code>Proactive and self-taught Full Stack developer focused on backend solutions and scalable systems. Passionate about understanding how complex systems work behind the scenes.</code>
 </p>
 
 ---
 
-### ⚡ Stacks & Tooling
+## 🟢 Primary Backend Tech
+* **Node.js** (Core Backend Development & Scalable Architecture)
+
+---
+
+## 🛠️ Secondary Stacks & Tooling
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -106,28 +111,12 @@
 
 ---
 
-### 🕹️ Beyond the Code
-> ### 🎮 **Gaming Enthusiast**
-> Video games are my main hobby and the reason I started my path in software development.
-
-> ### 🛠️ **Builder Mindset**
-> I love creating tools from scratch to solve everyday problems.
-
-> ### 📚 **Continuous Learner**
-> Currently diving deep into **Backend Design Patterns** and **Scalable Systems**.
-
----
-
-### 🔌 Connect & Contact
-> ### 🌐 **Portfolio**
-> Explore my personal portfolio showcasing my web projects and skills.  
-> 🔗 **[portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)**
-
-> ### 🐱 **GitHub**
-> Check out my repositories, contributions, and code activity.  
-> 🔗 **[@KevinMercado1](https://github.com/KevinMercado1)**
+## 📫 Connect with me
+* **Portfolio:** [Portfolio Website](https://portfolio-kevinmercado.netlify.app)
+* **GitHub:** [@KevinMercado1](https://github.com/KevinMercado1)
+* **Status:** Looking for Opportunities (Backend Developer / Software Developer in Training)
 
 ---
 <p align="center">
-  <code>"Turning logic into solutions, one line of code at a time."</code>
+  <code>root@kevin-mercado:~$ "Turning logic into solutions, one line of code at a time."</code>
 </p>
