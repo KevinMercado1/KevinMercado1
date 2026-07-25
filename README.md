@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FFD700&vCenter=true&width=300&lines=Stacks+%26+Tooling..." alt="Typing SVG" />
+### <h3 align="center"><span style="background: linear-gradient(90deg, #FFD700, #FF5722, #E91E63, #00BCD4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">⚡ Stacks & Tooling</span></h3>
 
 <table>
   <tr>
@@ -74,10 +74,10 @@
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=E91E63&vCenter=true&width=350&lines=Featured+Projects+(Top+6)..." alt="Typing SVG" />
+### <h3 align="center"><span style="background: linear-gradient(90deg, #FFD700, #FF5722, #E91E63, #00BCD4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📂 Featured Projects (Top 6)</span></h3>
 
 > ### 🛒 **01. E-commerce Platform**
-> E-commerce platform featuring secure authentication, database management, and file uploads.
+> **E-commerce platform featuring secure authentication, database management, and file uploads.**
 > 
 > 🛠 **Tech Stack:**  
 > <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" /> <img src="https://img.shields.io/badge/Bcryptjs-FF6F61?style=flat-square&logo=security&logoColor=white" />
@@ -88,7 +88,7 @@
 <br>
 
 > ### 🌐 **02. Personal Portfolio**
-> My digital resume showcasing my skills, journey, and the web projects I've built.
+> **My digital resume showcasing my skills, journey, and the web projects I've built.**
 > 
 > 🛠 **Tech Stack:**  
 > <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
@@ -99,7 +99,7 @@
 <br>
 
 > ### 🛸 **03. Rick and Morty SPA** <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
-> A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.
+> **A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.**
 > 
 > 🛠 **Tech Stack:**  
 > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white" />
@@ -110,7 +110,7 @@
 <br>
 
 > ### 📊 **04. DevTrack** <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
-> A collaborative tracking tool designed to help developers organize tasks and monitor productivity.
+> **A collaborative tracking tool designed to help developers organize tasks and monitor productivity.**
 > 
 > 🛠 **Tech Stack:**  
 > <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
@@ -121,7 +121,7 @@
 <br>
 
 > ### 🏧 **05. ATM Simulation**
-> A logic-based application developed to simulate real-world banking and ATM operations.
+> **A logic-based application developed to simulate real-world banking and ATM operations.**
 > 
 > 🛠 **Tech Stack:**  
 > <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -132,7 +132,7 @@
 <br>
 
 > ### 💳 **06. Banco K**
-> A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.
+> **A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.**
 > 
 > 🛠 **Tech Stack:**  
 > <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -142,7 +142,7 @@
 
 ---
 
-### 📫 Connect & Contact
+### <h3 align="center"><span style="background: linear-gradient(90deg, #FFD700, #FF5722, #E91E63, #00BCD4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📫 Connect & Contact</span></h3>
 * **Portfolio:** [portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)
 * **GitHub:** [@KevinMercado1](https://github.com/KevinMercado1)
 
