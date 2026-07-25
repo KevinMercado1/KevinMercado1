@@ -1,83 +1,129 @@
-<h1 align="center">Hi there, I'm Kevin Mercado</h1>
+<h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Engineer+%26+System+Architect;Building+Secure+%26+Scalable+APIs;Transforming+Complex+Logic+Into+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Engineer+%26+Node.js+Specialist;Building+Secure+APIs+%26+Scalable+Systems;Turning+complex+logic+into+clean+code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-059669?style=flat&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-059669?style=flat&logo=appveyor&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Backend_%26_Distributed_Systems-0284C7?style=flat&logo=codeforces&logoColor=white" />
 </p>
 
 ---
 
-### 💡 About Me
+### 💻 `$ whoami`
 
-> Self-taught software developer specializing in backend engineering, scalable architecture, and robust server-side workflows. Focused on clean code, performance, and deep system understanding.
-
----
-
-### ⚙️ Technical Stack
-
-* **Core Architecture:** Node.js • Express.js • RESTful APIs • Microservices Fundamentals
-* **Languages:** JavaScript (ES6+) • TypeScript • Python
-* **Frontend Integration:** React • Redux • HTML5 • CSS3
-* **Databases & Storage:** MongoDB • Mongoose • PostgreSQL • GraphQL
-* **DevOps & Tooling:** Docker • Git • Linux • Thunder Client • Postman
+> Proactive and self-taught software developer specializing in backend engineering, core server logic, and scalable architectures. Passionate about understanding how complex systems work behind the scenes.
 
 ---
 
-### 🚀 Featured Projects
+### ⚡ Stacks & Tooling
 
-> **01 / E-commerce Platform**
-> * **Overview:** Full-stack e-commerce engine built for secure user validation, inventory workflows, and media handling.
-> * **Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-> * **Focus:** Authentication security, routing middleware, and database schema modeling.
-> * **Source:** [GitHub Repository](https://github.com/KevinMercado1/ecommerce.git)
+**Backend & Databases** (Primary Focus)
+<p>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" hspace="6"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="36" height="36" hspace="6"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" hspace="6"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36" hspace="6"/></a>
+  <a href="https://graphql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="36" height="36" hspace="6"/></a>
+</p>
 
-<br>
+**Languages & Frontend**
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" hspace="6"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" hspace="6"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" hspace="6"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36" hspace="6"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="36" height="36" hspace="6"/></a>
+</p>
 
-> **02 / Personal Portfolio**
-> * **Overview:** Modern, responsive developer portfolio showcasing technical background and shipped applications.
-> * **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-> * **Focus:** Component architecture, layout responsiveness, and performance optimization.
-> * **Source:** [Live Preview](https://portfolio-kevinmercado.netlify.app) | [GitHub](https://github.com/KevinMercado1)
-
-<br>
-
-> **03 / Rick and Morty SPA** `Collaborative`
-> * **Overview:** Dynamic Single Page Application consuming external REST endpoints with asynchronous state flows.
-> * **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white)
-> * **Focus:** DOM manipulation, asynchronous JavaScript handling, and team version control.
-> * **Source:** [GitHub Repository](https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS)
-
-<br>
-
-> **04 / DevTrack** `Collaborative`
-> * **Overview:** Productivity and task management solution built to assist engineering teams with workflow organization.
-> * **Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-> * **Focus:** Relational data integration, secure access tokens, and task tracking logic.
-> * **Source:** [GitHub Repository](https://github.com/sebarebar/DevTrack)
-
-<br>
-
-> **05 / ATM Simulation**
-> * **Overview:** Logic-oriented console application designed to mirror core banking processes and session safety checks.
-> * **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-> * **Focus:** Algorithmic flow control, input verification, and state validation.
-> * **Source:** [GitHub Repository](https://github.com/KevinMercado1/ATM-Project)
-
-<br>
-
-> **06 / Banco K**
-> * **Overview:** Backend-heavy banking workspace incorporating secure access layers, containerization, and data persistence.
-> * **Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-> * **Focus:** Relational handling, container deployment setup, and API security.
-> * **Source:** [GitHub Repository](https://github.com/KevinMercado1/bancoK)
+**Tools & Cloud**
+<p>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" hspace="6"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36" hspace="6"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36" hspace="6"/></a>
+</p>
 
 ---
 
-### 📫 Connect
+### 📂 Featured Projects (Top 6)
+
+> **01. E-commerce Platform**
+> E-commerce platform featuring secure authentication, database management, and file uploads.
+> 
+> * **Tech Stack:** 
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18" height="18" /> MongoDB &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtokens/jsonwebtokens-original.svg" width="18" height="18" /> JWT
+> * **Key Focus:** Secure authentication, middleware handling, and backend architecture.  
+> * **Repository:** [github.com/KevinMercado1/ecommerce](https://github.com/KevinMercado1/ecommerce.git)
+
+<br>
+
+> **02. Personal Portfolio**
+> My digital resume showcasing my skills, journey, and the web projects I've built.
+> 
+> * **Tech Stack:** 
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> JavaScript &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> HTML5 &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18" height="18" /> CSS3
+> * **Key Focus:** Clean UI, Responsive Design, and Performance.  
+> * **Links:** [Live Demo](https://portfolio-kevinmercado.netlify.app) | [Repository](https://github.com/KevinMercado1)
+
+<br>
+
+> **03. Rick and Morty SPA** `Collaboration`
+> A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.
+> 
+> * **Tech Stack:** 
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> JavaScript &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> HTML5 &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18" height="18" /> Git
+> * **Key Focus:** DOM manipulation, Asynchronous JavaScript, and team workflow.  
+> * **Repository:** [github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS](https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS)
+
+<br>
+
+> **04. DevTrack** `Collaboration`
+> A collaborative tracking tool designed to help developers organize tasks and monitor productivity.
+> 
+> * **Tech Stack:** 
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18" height="18" /> Git
+> * **Key Focus:** Collaborative problem solving, full-stack integration, and task management logic.  
+> * **Repository:** [github.com/sebarebar/DevTrack](https://github.com/sebarebar/DevTrack)
+
+<br>
+
+> **05. ATM Simulation**
+> A logic-based application developed to simulate real-world banking and ATM operations.
+> 
+> * **Tech Stack:** 
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18" height="18" /> Python &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18" height="18" /> Git
+> * **Key Focus:** Core programming principles, data validation, and complex logical flow control.  
+> * **Repository:** [github.com/KevinMercado1/ATM-Project](https://github.com/KevinMercado1/ATM-Project)
+
+<br>
+
+> **06. Banco K**
+> A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.
+> 
+> * **Tech Stack:** 
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="18" height="18" /> Docker
+> * **Key Focus:** Secure authentication, RESTful API integration, and relational database handling.  
+> * **Repository:** [github.com/KevinMercado1/bancoK](https://github.com/KevinMercado1/bancoK)
+
+---
+
+### 📫 Connect & Contact
 
 * **Website:** [portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)
 * **GitHub:** [@KevinMercado1](https://github.com/KevinMercado1)
