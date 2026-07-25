@@ -1,5 +1,7 @@
+<h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Hi+there!+👋+I'm+Kevin+Mercado;Aspiring+Backend+Developer;Turning+logic+into+scalable+solutions..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=%3E+Aspiring+Backend+Developer;%3E+Software+Developer+in+Training;%3E+Turning+logic+into+scalable+solutions..." alt="Typing SVG" />
 </p>
 
 <p align="center">
