@@ -1,12 +1,12 @@
 <h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=%3E+Aspiring+Backend+Developer;%3E+Software+Developer+in+Training;%3E+Turning+logic+into+scalable+solutions..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=%3E+Aspiring+Backend+Developer;%3E+Software+Developer+in+Training;%3E+Turning+logic+into+scalable+solutions..." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-0ea5e9?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Backend_&_Scalable_Systems-8b5cf6?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-E91E63?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend_&_Scalable_Systems-00BCD4?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Stacks & Tooling
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=FFD700&vCenter=true&width=300&lines=Stacks+%26+Tooling..." alt="Typing SVG" />
 
 <table>
   <tr>
@@ -33,7 +33,7 @@
     <td colspan="2" align="center"><sub><i>Architecting robust server-side logic and scalable APIs.</i></sub></td>
   </tr>
   <tr>
-    <td colspan="2"><hr/></td>
+    <td colspan="2"><hr style="border: 0; height: 1px; background: #30363d;" /></td>
   </tr>
   <tr>
     <td align="center" colspan="2"><b>🛠️ SECONDARY STACKS & TOOLING</b></td>
@@ -74,7 +74,7 @@
 
 ---
 
-### 📂 Featured Projects (Top 6)
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=E91E63&vCenter=true&width=350&lines=Featured+Projects+(Top+6)..." alt="Typing SVG" />
 
 > ### 🛒 **01. E-commerce Platform**
 > E-commerce platform featuring secure authentication, database management, and file uploads.
