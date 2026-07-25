@@ -76,7 +76,7 @@
 
 <h2 style="border-bottom: none;"><span style="background: linear-gradient(90deg, #FFD700, #FF5722, #E91E63, #00BCD4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📂 Featured Projects (Top 6)</span></h2>
 
-> ### <img src="https://img.shields.io/badge/🛒-E--commerce-FF5722?style=flat-square&logo=appveyor&logoColor=white" /> **01. E-commerce Platform**
+> ### <img src="https://img.shields.io/badge/🛒-E--commerce-FF5722?style=flat-square&logo=appveyor&logoColor=white" height="20"> **01. E-commerce Platform**
 > **E-commerce platform featuring secure authentication, database management, and file uploads.**
 > 
 > 🛠 **Tech Stack & Tools:**  
@@ -87,7 +87,7 @@
 
 <br>
 
-> ### <img src="https://img.shields.io/badge/🌐-Portfolio-00BCD4?style=flat-square&logo=react&logoColor=white" /> **02. Personal Portfolio**
+> ### <img src="https://img.shields.io/badge/🌐-Portfolio-00BCD4?style=flat-square&logo=react&logoColor=white" height="20"> **02. Personal Portfolio**
 > **My digital resume showcasing my skills, journey, and the web projects I've built.**
 > 
 > 🛠 **Tech Stack & Tools:**  
@@ -98,7 +98,7 @@
 
 <br>
 
-> ### <img src="https://img.shields.io/badge/🛸-Rick_%26_Morty-E91E63?style=flat-square&logo=javascript&logoColor=white" /> **03. Rick and Morty SPA** <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
+> ### <img src="https://img.shields.io/badge/🛸-Rick_%26_Morty-E91E63?style=flat-square&logo=javascript&logoColor=white" height="20"> **03. Rick and Morty SPA** <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
 > **A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.**
 > 
 > 🛠 **Tech Stack & Tools:**  
@@ -109,7 +109,7 @@
 
 <br>
 
-> ### <img src="https://img.shields.io/badge/📊-DevTrack-FFD700?style=flat-square&logo=postgresql&logoColor=black" /> **04. DevTrack** <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
+> ### <img src="https://img.shields.io/badge/📊-DevTrack-FFD700?style=flat-square&logo=postgresql&logoColor=black" height="20"> **04. DevTrack** <img src="https://img.shields.io/badge/TEAM_WORK-Collaboration-orange?style=flat-square" />
 > **A collaborative tracking tool designed to help developers organize tasks and monitor productivity.**
 > 
 > 🛠 **Tech Stack & Tools:**  
@@ -120,7 +120,7 @@
 
 <br>
 
-> ### <img src="https://img.shields.io/badge/🏧-ATM_Simulation-3776AB?style=flat-square&logo=python&logoColor=white" /> **05. ATM Simulation**
+> ### <img src="https://img.shields.io/badge/🏧-ATM_Simulation-3776AB?style=flat-square&logo=python&logoColor=white" height="20"> **05. ATM Simulation**
 > **A logic-based application developed to simulate real-world banking and ATM operations.**
 > 
 > 🛠 **Tech Stack & Tools:**  
@@ -131,7 +131,7 @@
 
 <br>
 
-> ### <img src="https://img.shields.io/badge/💳-Banco_K-2496ED?style=flat-square&logo=docker&logoColor=white" /> **06. Banco K**
+> ### <img src="https://img.shields.io/badge/💳-Banco_K-2496ED?style=flat-square&logo=docker&logoColor=white" height="20"> **06. Banco K**
 > **A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.**
 > 
 > 🛠 **Tech Stack & Tools:**  
@@ -144,8 +144,8 @@
 
 <h2 style="border-bottom: none;"><span style="background: linear-gradient(90deg, #FFD700, #FF5722, #E91E63, #00BCD4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📫 Connect & Contact</span></h2>
 
-* <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" /> **Portfolio:** [portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)
-* <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> **GitHub:** [@KevinMercado1](https://github.com/KevinMercado1)
+* <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" height="18"> **Portfolio:** [portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)
+* <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18"> **GitHub:** [@KevinMercado1](https://github.com/KevinMercado1)
 
 ---
 <p align="center">
