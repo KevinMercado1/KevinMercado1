@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
+quiero colocarlo aquí <h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%26+Node.js+Specialist;Building+Secure+APIs+%26+Scalable+Systems;Turning+complex+logic+into+clean+code" alt="Typing SVG" />
@@ -28,7 +28,6 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" hspace="8"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" hspace="8"/></a>
   <a href="https://graphql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" hspace="8"/></a>
-  <a href="https://jwt.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtokens/jsonwebtokens-original.svg" alt="JWT" width="40" height="40" hspace="8"/></a>
 </p>
 
 <p align="center">
@@ -100,3 +99,4 @@
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/ico
