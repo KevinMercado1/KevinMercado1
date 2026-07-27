@@ -1,4 +1,4 @@
-quiero colocarlo aquí <h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
+<h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%26+Node.js+Specialist;Building+Secure+APIs+%26+Scalable+Systems;Turning+complex+logic+into+clean+code" alt="Typing SVG" />
