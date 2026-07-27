@@ -28,6 +28,7 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" hspace="8"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" hspace="8"/></a>
   <a href="https://graphql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" hspace="8"/></a>
+  <a href="https://jwt.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtokens/jsonwebtokens-original.svg" alt="JWT" width="40" height="40" hspace="8"/></a>
 </p>
 
 <p align="center">
@@ -99,42 +100,3 @@
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL &nbsp;
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18" height="18" /> Git
-> * **Key Focus:** Collaborative problem solving, full-stack integration, and task management logic.  
-> * **Repository:** [github.com/sebarebar/DevTrack](https://github.com/sebarebar/DevTrack)
-
-<br>
-
-> ### 🏧 **05. ATM Simulation**
-> **A logic-based application developed to simulate real-world banking and ATM operations.**
-> 
-> * **Tech Stack:** 
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18" height="18" /> Python &nbsp;
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18" height="18" /> Git
-> * **Key Focus:** Core programming principles, data validation, and complex logical flow control.  
-> * **Repository:** [github.com/KevinMercado1/ATM-Project](https://github.com/KevinMercado1/ATM-Project)
-
-<br>
-
-> ### 💳 **06. Banco K**
-> **A comprehensive banking application featuring user authentication, database management, and a modern responsive interface.**
-> 
-> * **Tech Stack:** 
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL &nbsp;
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="18" height="18" /> Docker
-> * **Key Focus:** Secure authentication, RESTful API integration, and relational database handling.  
-> * **Repository:** [github.com/KevinMercado1/bancoK](https://github.com/KevinMercado1/bancoK)
-
----
-
-## <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Connect+%26+Contact" alt="Connect & Contact" /></p>
-
-* **Portfolio:** [portfolio-kevinmercado.netlify.app](https://portfolio-kevinmercado.netlify.app)
-* **GitHub:** [@KevinMercado1](https://github.com/KevinMercado1)
-
----
-<p align="center">
-  <code>root@kevin-mercado:~$ "Turning logic into scalable solutions."</code>
-</p>
