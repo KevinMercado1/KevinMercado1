@@ -52,7 +52,7 @@
 
 ---
 
-## <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Featured+Projects+(Top+6)" alt="Featured Projects" /></p>
+## <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Featured+Projects+(Top+5)" alt="Featured Projects" /></p>
 
 > ### 🛒 **01. E-commerce Platform**
 > **E-commerce platform featuring secure authentication, database management, and file uploads.**
@@ -113,16 +113,4 @@
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React
 > * **Key Focus:** User authentication, secure transactions, and robust backend logic.
-> * **Repository:** [GitHub Repository](https://github.com/KevinMercado1)
-
-<br>
-
-> ### ⚙️ **06. Task Manager API**
-> **RESTful API designed for task management with complete CRUD operations, data validation, and persistent storage.**
-> 
-> * **Tech Stack:** 
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18" height="18" /> MongoDB
-> * **Key Focus:** RESTful routing, error handling, and database schemas.
 > * **Repository:** [GitHub Repository](https://github.com/KevinMercado1)
