@@ -113,4 +113,4 @@
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React
 > * **Key Focus:** User authentication, secure transactions, and robust backend logic.
-> * **Repository:** [GitHub Repository](https://github.com/KevinMercado1)
+> * **Repository:** [GitHub Repository](https://github.com/KevinMercado1/bancoK)
