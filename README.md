@@ -62,7 +62,7 @@
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18" height="18" /> MongoDB &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtokens/jsonwebtokens-original.svg" width="18" height="18" /> JWT
-> * **Key Focus:** Secure authentication, middleware handling, and backend architecture.  
+> * **Key Focus:** Secure authentication, middleware handling, and backend architecture. 
 > * **Repository:** [github.com/KevinMercado1/ecommerce](https://github.com/KevinMercado1/ecommerce.git)
 
 <br>
@@ -75,7 +75,7 @@
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> JavaScript &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> HTML5 &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18" height="18" /> CSS3
-> * **Key Focus:** Clean UI, Responsive Design, and Performance.  
+> * **Key Focus:** Clean UI, Responsive Design, and Performance. 
 > * **Links:** [Live Demo](https://portfolio-kevinmercado.netlify.app)
 
 <br>
@@ -87,7 +87,7 @@
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> JavaScript &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> HTML5 &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18" height="18" /> Git
-> * **Key Focus:** DOM manipulation, Asynchronous JavaScript, and team workflow.  
+> * **Key Focus:** DOM manipulation, Asynchronous JavaScript, and team workflow. 
 > * **Repository:** [github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS](https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS)
 
 <br>
@@ -98,5 +98,31 @@
 > * **Tech Stack:** 
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL
+> * **Key Focus:** Backend architecture, database relational management, and team collaboration.
+> * **Repository:** [github.com/KevinMercado1/devtrack](https://github.com/KevinMercado1/devtrack)
+
+<br>
+
+> ### 💳 **05. Banco K**
+> **Comprehensive banking application with user authentication, database management, and a modern, responsive interface.**
+> 
+> * **Tech Stack:** 
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL &nbsp;
->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/ico
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React
+> * **Key Focus:** User authentication, secure transactions, and robust backend logic.
+> * **Repository:** [GitHub Repository](https://github.com/KevinMercado1)
+
+<br>
+
+> ### ⚙️ **06. Task Manager API**
+> **RESTful API designed for task management with complete CRUD operations, data validation, and persistent storage.**
+> 
+> * **Tech Stack:** 
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18" height="18" /> MongoDB
+> * **Key Focus:** RESTful routing, error handling, and database schemas.
+> * **Repository:** [GitHub Repository](https://github.com/KevinMercado1)
