@@ -100,7 +100,7 @@
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL
 > * **Key Focus:** Backend architecture, database relational management, and team collaboration.
-> * **Repository:** [github.com/KevinMercado1/devtrack](https://github.com/KevinMercado1/devtrack)
+> * **Repository:** [github.com/KevinMercado1/devtrack](https://github.com/sebarebar/DevTrack)
 
 <br>
 
