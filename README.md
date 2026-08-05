@@ -114,3 +114,21 @@
 >   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React
 > * **Key Focus:** User authentication, secure transactions, and robust backend logic.
 > * **Repository:** [GitHub Repository](https://github.com/KevinMercado1/bancoK)
+
+---
+
+## 📡 API Documentation & Testing
+
+> Easily test, explore, and interact with the endpoints of my backend projects using Postman.
+
+<p align="center">
+  <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" hspace="8"/></a>
+</p>
+
+<p align="center">
+  <a href="https://app.getpostman.com/run-collection/TU_ID_DE_COLECCION_AQUI" target="_blank">
+    <img src="https://run.pstmn.io/button.svg" alt="Run In Postman" />
+  </a>
+</p>
+
+> **Tip:** You can also find the exported collection JSON files inside the `/docs` or `/postman` folders of each respective backend repository to import them manually.
