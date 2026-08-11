@@ -26,6 +26,7 @@
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" hspace="8"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" hspace="8"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" hspace="8"/></a>
+  <a href="https://sequelize.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40" hspace="8"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" hspace="8"/></a>
   <a href="https://graphql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" hspace="8"/></a>
 </p>
@@ -59,10 +60,10 @@
 > **E-commerce platform featuring secure authentication, database management, and file uploads.**
 > 
 > * **Tech Stack:** 
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18" height="18" /> MongoDB &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtokens/jsonwebtokens-original.svg" width="18" height="18" /> JWT
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18" height="18" /> MongoDB &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtokens/jsonwebtokens-original.svg" width="18" height="18" /> JWT
 > * **Key Focus:** Secure authentication, middleware handling, and backend architecture. 
 > * **Repository:** [github.com/KevinMercado1/ecommerce](https://github.com/KevinMercado1/ecommerce.git)
 
@@ -72,10 +73,10 @@
 > **My digital resume showcasing my skills, journey, and the web projects I've built.**
 > 
 > * **Tech Stack:** 
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> JavaScript &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> HTML5 &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18" height="18" /> CSS3
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> JavaScript &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> HTML5 &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18" height="18" /> CSS3
 > * **Key Focus:** Clean UI, Responsive Design, and Performance. 
 > * **Links:** [Live Demo](https://portfolio-kevinmercado.netlify.app)
 
@@ -85,9 +86,9 @@
 > **A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.**
 > 
 > * **Tech Stack:** 
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> JavaScript &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> HTML5 &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18" height="18" /> Git
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> JavaScript &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> HTML5 &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18" height="18" /> Git
 > * **Key Focus:** DOM manipulation, Asynchronous JavaScript, and team workflow. 
 > * **Repository:** [github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS](https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS)
 
@@ -97,9 +98,9 @@
 > **A collaborative tracking tool designed to help developers organize tasks and monitor productivity.**
 > 
 > * **Tech Stack:** 
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL
 > * **Key Focus:** Backend architecture, database relational management, and team collaboration.
 > * **Repository:** [github.com/KevinMercado1/devtrack](https://github.com/sebarebar/DevTrack)
 
@@ -109,9 +110,9 @@
 > **Comprehensive banking application with user authentication, database management, and a modern, responsive interface.**
 > 
 > * **Tech Stack:** 
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL &nbsp;
->    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL &nbsp;
+>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React
 > * **Key Focus:** User authentication, secure transactions, and robust backend logic.
 > * **Repository:** [GitHub Repository](https://github.com/KevinMercado1/bancoK)
