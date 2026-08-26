@@ -7,14 +7,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-059669?style=flat&logo=appveyor&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Backend_%26_Distributed_Systems-0284C7?style=flat&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-TypeScript_%26_PostgreSQL-3178C6?style=flat&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
 ### 💻 `$ whoami`
 
-> Proactive and self-taught software developer specializing in backend engineering, server-side logic, REST APIs, and scalable architectures. Passionate about understanding how complex systems work behind the scenes and building secure, maintainable solutions.
+> Proactive and self-taught software developer specializing in backend engineering, core server logic, and scalable architectures. Passionate about understanding how complex systems work behind the scenes.
 
 ---
 
@@ -25,27 +24,12 @@
 </p>
 
 <p align="center">
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://sequelize.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" hspace="8"/>
-  </a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" hspace="8"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" hspace="8"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" hspace="8"/></a>
+  <a href="https://sequelize.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40" hspace="8"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" hspace="8"/></a>
+  <a href="https://graphql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" hspace="8"/></a>
 </p>
 
 <p align="center">
@@ -53,21 +37,11 @@
 </p>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" hspace="8"/>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" hspace="8"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" hspace="8"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" hspace="8"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" hspace="8"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" hspace="8"/></a>
 </p>
 
 <p align="center">
@@ -75,39 +49,31 @@
 </p>
 
 <p align="center">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" hspace="8"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" hspace="8"/>
-  </a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" hspace="8"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" hspace="8"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" hspace="8"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" hspace="8"/></a>
 </p>
 
 ---
 
-## <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Featured+Projects+(Top+5)" alt="Featured Projects" /></p>
+## <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Featured+Projects+(Top+6)" alt="Featured Projects" /></p>
 
 > ### 🚀 **01. Riwi Project** `Featured`
 >
-> **Backend API built with TypeScript and Express, designed around a modular architecture for managing Riwi's development ecosystem.**
+> **A backend API built with TypeScript and Express, designed with a modular architecture for managing Riwi's development ecosystem.**
 >
-> * **Tech Stack:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18" height="18" /> TypeScript   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="18" height="18" /> Sequelize   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="18" height="18" /> Docker
+> * **Tech Stack:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18" height="18" /> TypeScript   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="18" height="18" /> Sequelize   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtokens/jsonwebtokens-original.svg" width="18" height="18" /> JWT   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="18" height="18" /> Docker
 >
-> * **Security:** JWT authentication, bcrypt password hashing, authorization middleware, and request validation.
+> * **Key Focus:** Secure authentication, authorization, request validation, relational database management, and modular backend architecture.
 >
-> * **Architecture:** Controllers, DTOs, models, routes, middlewares, validators, seeders, and utilities.
+> * **Architecture:** Controllers, DTOs, models, routes, middlewares, validators, seeders, configuration, and utilities.
+>
+> * **Security:** JWT-based authentication, bcrypt password hashing, authorization middleware, protected routes, and input validation.
 >
 > * **API:** REST API with Swagger documentation.
 >
-> * **Key Focus:** Secure backend architecture, relational database design, authentication, authorization, validation, and maintainable TypeScript code.
->
-> * **Repository:** [github.com/KevinMercado1/Riwi-Project](https://github.com/KevinMercado1/Riwi-Project)
+> * **Repository:** [github.com/KevinMercado1/Riwi-Project](https://github.com/KevinMercado1/Riwi-Project.git)
 
 <br>
 
@@ -116,59 +82,45 @@
 > **E-commerce platform featuring secure authentication, database management, and file uploads.**
 >
 > * **Tech Stack:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18" height="18" /> MongoDB   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtokens/jsonwebtokens-original.svg" width="18" height="18" /> JWT
->
-> * **Key Focus:** Secure authentication, middleware handling, file uploads, and backend architecture.
->
+> * **Key Focus:** Secure authentication, middleware handling, and backend architecture.
 > * **Repository:** [github.com/KevinMercado1/ecommerce](https://github.com/KevinMercado1/ecommerce.git)
 
 <br>
 
-> ### 💳 **03. Banco K**
+> ### 🌐 **03. Personal Portfolio**
 >
-> **Comprehensive banking application with user authentication, database management, and a modern responsive interface.**
+> **My digital resume showcasing my skills, journey, and the web projects I've built.**
 >
-> * **Tech Stack:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React
->
-> * **Key Focus:** User authentication, secure transactions, relational databases, and robust backend logic.
->
-> * **Repository:** [github.com/KevinMercado1/bancoK](https://github.com/KevinMercado1/bancoK)
+> * **Tech Stack:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> JavaScript   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> HTML5   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18" height="18" /> CSS3
+> * **Key Focus:** Clean UI, Responsive Design, and Performance.
+> * **Links:** [Live Demo](https://portfolio-kevinmercado.netlify.app)
 
 <br>
 
-> ### 📊 **04. DevTrack** `Collaboration`
+> ### 🛸 **04. Rick and Morty SPA** `Collaboration`
 >
-> **A collaborative tracking tool designed to help developers organize tasks and monitor productivity.**
->
-> * **Tech Stack:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL
->
-> * **Key Focus:** Backend architecture, relational database management, REST APIs, and team collaboration.
->
-> * **Repository:** [github.com/KevinMercado1/devtrack](https://github.com/KevinMercado1/devtrack)
-
-<br>
-
-> ### 🛸 **05. Rick and Morty SPA** `Collaboration`
->
-> **A Single Page Application built collaboratively while consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.**
+> **A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.**
 >
 > * **Tech Stack:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> JavaScript   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18" height="18" /> HTML5   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18" height="18" /> Git
->
-> * **Key Focus:** DOM manipulation, asynchronous JavaScript, API consumption, and team workflow.
->
+> * **Key Focus:** DOM manipulation, Asynchronous JavaScript, and team workflow.
 > * **Repository:** [github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS](https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS)
 
 <br>
 
----
+> ### 📊 **05. DevTrack** `Collaboration`
+>
+> **A collaborative tracking tool designed to help developers organize tasks and monitor productivity.**
+>
+> * **Tech Stack:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL
+> * **Key Focus:** Backend architecture, database relational management, and team collaboration.
+> * **Repository:** [github.com/KevinMercado1/devtrack](https://github.com/sebarebar/DevTrack)
 
-## 🌐 Personal Portfolio
+<br>
 
-<p align="center">
-  <a href="https://portfolio-kevinmercado.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Building backend systems, learning continuously, and turning complex problems into clean solutions.</b>
-</p>
+> ### 💳 **06. Banco K**
+>
+> **Comprehensive banking application with user authentication, database management, and a modern, responsive interface.**
+>
+> * **Tech Stack:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18" /> Node.js   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="18" height="18" /> Express   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18" /> PostgreSQL   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18" height="18" /> React
+> * **Key Focus:** User authentication, secure transactions, and robust backend logic.
+> * **Repository:** [GitHub Repository](https://github.com/KevinMercado1/bancoK)
