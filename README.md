@@ -71,7 +71,7 @@
 >
 > * **Security:** JWT authentication, bcrypt password hashing, authorization middleware, and input validation.
 >
-> * **API:** REST API with Swagger documentation.
+> * **API:** REST API
 >
 > * **Repository:** [github.com/KevinMercado1/Riwi-Project](https://github.com/KevinMercado1/Riwi-Project.git)
 
