@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Kevin Mercado</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%26+Node.js+Specialist;Building+Secure+APIs+%26+Scalable+Systems;Turning+complex+logic+into+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%26+NestJS+%2F+Node.js+Specialist;Building+Secure+APIs+%26+Scalable+Systems;Turning+complex+logic+into+clean+code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 💻 `$ whoami`
 
-> Proactive and self-taught software developer specializing in backend engineering, core server logic, and scalable architectures. Passionate about understanding how complex systems work behind the scenes.
+> Proactive and self-taught software developer specializing in backend engineering with NestJS and Node.js, core server logic, and scalable architectures. Passionate about understanding how complex systems work behind the scenes and building maintainable enterprise APIs.
 
 ---
 
@@ -22,7 +22,7 @@
 ### 🔹 Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgres,sequelize,mongodb,jwt&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,express,postgres,sequelize,mongodb,jwt&perline=8" />
 </p>
 
 ### 🔹 Frontend
@@ -156,5 +156,5 @@
 ## 🧩 Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgres,sequelize,mongodb,jwt,react,js,html,css,git,docker,github,vscode,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,express,postgres,sequelize,mongodb,jwt,react,js,html,css,git,docker,github,vscode,postman&perline=9" />
 </p>
