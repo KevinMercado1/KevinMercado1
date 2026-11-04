@@ -13,7 +13,7 @@
 
 ### 💻 `$ whoami`
 
-> Proactive and self-taught software developer specializing in backend engineering with **NestJS** and **Node.js**, core server logic, and scalable architectures. Passionate about understanding how complex systems work behind the scenes and building maintainable enterprise APIs.
+> Proactive and self-taught software developer specializing in backend engineering with **NestJS**, **Node.js**, and **Python**, core server logic, and scalable architectures. Passionate about understanding how complex systems work behind the scenes and building maintainable enterprise APIs.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -21,7 +21,7 @@
 
 ### 🔹 Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,express,postgres,sequelize,mongodb,jwt&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,express,postgres,sequelize,mongodb,jwt&perline=9" />
 </p>
 
 ### 🔹 Frontend
@@ -51,7 +51,7 @@
         <li><b>Security:</b> JWT authentication, bcrypt password hashing, authorization middleware, and input validation.</li>
         <li><b>API:</b> REST API</li>
       </ul>
-      <a href="https://github.com/KevinMercado1/Riwi-Project.git">
+      <a href="https://github.com/KevinMercado1/Riwi-Project.git" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -70,7 +70,7 @@
       <ul>
         <li><b>Key Focus:</b> Secure authentication, middleware handling, and backend architecture.</li>
       </ul>
-      <a href="https://github.com/KevinMercado1/ecommerce.git">
+      <a href="https://github.com/KevinMercado1/ecommerce.git" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -89,7 +89,7 @@
       <ul>
         <li><b>Key Focus:</b> Clean UI, Responsive Design, and Performance.</li>
       </ul>
-      <a href="https://portfolio-kevinmercado.netlify.app">
+      <a href="https://portfolio-kevinmercado.netlify.app" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Live_Demo-00D8FF?style=for-the-badge&logo=netlify&logoColor=black" />
       </a>
     </td>
@@ -108,7 +108,7 @@
       <ul>
         <li><b>Key Focus:</b> DOM manipulation, Asynchronous JavaScript, and team workflow.</li>
       </ul>
-      <a href="https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS">
+      <a href="https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -127,7 +127,7 @@
       <ul>
         <li><b>Key Focus:</b> Backend architecture, database relational management, and team collaboration.</li>
       </ul>
-      <a href="https://github.com/sebarebar/DevTrack">
+      <a href="https://github.com/sebarebar/DevTrack" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -146,7 +146,7 @@
       <ul>
         <li><b>Key Focus:</b> User authentication, secure transactions, and robust backend logic.</li>
       </ul>
-      <a href="https://github.com/KevinMercado1/bancoK">
+      <a href="https://github.com/KevinMercado1/bancoK" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -158,5 +158,5 @@
 ## 🧩 Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,express,postgres,sequelize,mongodb,jwt,react,js,html,css,git,docker,github,vscode,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,express,postgres,sequelize,mongodb,jwt,react,js,html,css,git,docker,github,vscode,postman&perline=10" />
 </p>
