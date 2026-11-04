@@ -154,9 +154,3 @@
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🧩 Core Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,python,express,postgres,sequelize,mongodb,jwt,react,js,html,css,git,docker,github,vscode,postman&perline=10" />
-</p>
