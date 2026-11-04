@@ -5,153 +5,155 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-059669?style=flat&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_Distributed_Systems-0284C7?style=flat&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Looking_for_Opportunities-059669?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Distributed_Systems-0284C7?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💻 `$ whoami`
 
-> Proactive and self-taught software developer specializing in backend engineering with NestJS and Node.js, core server logic, and scalable architectures. Passionate about understanding how complex systems work behind the scenes and building maintainable enterprise APIs.
+> Proactive and self-taught software developer specializing in backend engineering with **NestJS** and **Node.js**, core server logic, and scalable architectures. Passionate about understanding how complex systems work behind the scenes and building maintainable enterprise APIs.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ⚡ Stacks & Tooling
 
 ### 🔹 Backend & Databases
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,express,postgres,sequelize,mongodb,jwt&perline=8" />
 </p>
 
 ### 🔹 Frontend
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css&perline=4" />
 </p>
 
 ### 🔹 Tools & Infrastructure
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=5" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
-### 🚀 01. Riwi Project `Featured`
-
-**A backend API built with TypeScript and Express, designed with a modular architecture for managing Riwi's development ecosystem.**
-
-**Tech Stack**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,sequelize,docker,jwt&perline=7" />
-</p>
-
-- **Key Focus:** Secure authentication, authorization, request validation, relational database management, and modular backend architecture.
-
-- **Architecture:** Controllers, DTOs, models, routes, middlewares, validators, seeders, configuration, and utilities.
-
-- **Security:** JWT authentication, bcrypt password hashing, authorization middleware, and input validation.
-
-- **API:** REST API
-
-- **Repository:** [github.com/KevinMercado1/Riwi-Project](https://github.com/KevinMercado1/Riwi-Project.git)
-
-<br>
-
----
-
-### 🛒 02. E-commerce Platform
-
-**E-commerce platform featuring secure authentication, database management, and file uploads.**
-
-**Tech Stack**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt&perline=4" />
-</p>
-
-- **Key Focus:** Secure authentication, middleware handling, and backend architecture.
-
-- **Repository:** [github.com/KevinMercado1/ecommerce](https://github.com/KevinMercado1/ecommerce.git)
+<table>
+  <tr>
+    <td>
+      <h3>🚀 01. Riwi Project <code>Featured</code></h3>
+      <p><b>A backend API built with TypeScript and Express, designed with a modular architecture for managing Riwi's development ecosystem.</b></p>
+      <p><b>Tech Stack</b></p>
+      <p><img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,sequelize,docker,jwt&perline=7" /></p>
+      <ul>
+        <li><b>Key Focus:</b> Secure authentication, authorization, request validation, relational database management, and modular backend architecture.</li>
+        <li><b>Architecture:</b> Controllers, DTOs, models, routes, middlewares, validators, seeders, configuration, and utilities.</li>
+        <li><b>Security:</b> JWT authentication, bcrypt password hashing, authorization middleware, and input validation.</li>
+        <li><b>API:</b> REST API</li>
+      </ul>
+      <a href="https://github.com/KevinMercado1/Riwi-Project.git">
+        <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
----
-
-### 🌐 03. Personal Portfolio
-
-**My digital resume showcasing my skills, journey, and the web projects I've built.**
-
-**Tech Stack**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css&perline=4" />
-</p>
-
-- **Key Focus:** Clean UI, Responsive Design, and Performance.
-
-- **Links:** [Live Demo](https://portfolio-kevinmercado.netlify.app)
-
-<br>
-
----
-
-### 🛸 04. Rick and Morty SPA `Collaboration`
-
-**A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.**
-
-**Tech Stack**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,git&perline=3" />
-</p>
-
-- **Key Focus:** DOM manipulation, Asynchronous JavaScript, and team workflow.
-
-- **Repository:** [github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS](https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS)
+<table>
+  <tr>
+    <td>
+      <h3>🛒 02. E-commerce Platform</h3>
+      <p><b>E-commerce platform featuring secure authentication, database management, and file uploads.</b></p>
+      <p><b>Tech Stack</b></p>
+      <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt&perline=4" /></p>
+      <ul>
+        <li><b>Key Focus:</b> Secure authentication, middleware handling, and backend architecture.</li>
+      </ul>
+      <a href="https://github.com/KevinMercado1/ecommerce.git">
+        <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
----
-
-### 📊 05. DevTrack `Collaboration`
-
-**A collaborative tracking tool designed to help developers organize tasks and monitor productivity.**
-
-**Tech Stack**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=3" />
-</p>
-
-- **Key Focus:** Backend architecture, database relational management, and team collaboration.
-
-- **Repository:** [github.com/KevinMercado1/devtrack](https://github.com/sebarebar/DevTrack)
+<table>
+  <tr>
+    <td>
+      <h3>🌐 03. Personal Portfolio</h3>
+      <p><b>My digital resume showcasing my skills, journey, and the web projects I've built.</b></p>
+      <p><b>Tech Stack</b></p>
+      <p><img src="https://skillicons.dev/icons?i=react,js,html,css&perline=4" /></p>
+      <ul>
+        <li><b>Key Focus:</b> Clean UI, Responsive Design, and Performance.</li>
+      </ul>
+      <a href="https://portfolio-kevinmercado.netlify.app">
+        <img src="https://img.shields.io/badge/Live_Demo-00D8FF?style=for-the-badge&logo=netlify&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
----
+<table>
+  <tr>
+    <td>
+      <h3>🛸 04. Rick and Morty SPA <code>Collaboration</code></h3>
+      <p><b>A Single Page Application built collaboratively consuming the Rick and Morty API, featuring dynamic routing and asynchronous state management.</b></p>
+      <p><b>Tech Stack</b></p>
+      <p><img src="https://skillicons.dev/icons?i=js,html,git&perline=3" /></p>
+      <ul>
+        <li><b>Key Focus:</b> DOM manipulation, Asynchronous JavaScript, and team workflow.</li>
+      </ul>
+      <a href="https://github.com/sebarebar/RICK-MORTY---SPA-VANILLA-JS">
+        <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 💳 06. Banco K
+<br>
 
-**Comprehensive banking application with user authentication, database management, and a modern, responsive interface.**
+<table>
+  <tr>
+    <td>
+      <h3>📊 05. DevTrack <code>Collaboration</code></h3>
+      <p><b>A collaborative tracking tool designed to help developers organize tasks and monitor productivity.</b></p>
+      <p><b>Tech Stack</b></p>
+      <p><img src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=3" /></p>
+      <ul>
+        <li><b>Key Focus:</b> Backend architecture, database relational management, and team collaboration.</li>
+      </ul>
+      <a href="https://github.com/sebarebar/DevTrack">
+        <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Tech Stack**
+<br>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,react&perline=4" />
-</p>
+<table>
+  <tr>
+    <td>
+      <h3>💳 06. Banco K</h3>
+      <p><b>Comprehensive banking application with user authentication, database management, and a modern, responsive interface.</b></p>
+      <p><b>Tech Stack</b></p>
+      <p><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,react&perline=4" /></p>
+      <ul>
+        <li><b>Key Focus:</b> User authentication, secure transactions, and robust backend logic.</li>
+      </ul>
+      <a href="https://github.com/KevinMercado1/bancoK">
+        <img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-- **Key Focus:** User authentication, secure transactions, and robust backend logic.
-
-- **Repository:** [GitHub Repository](https://github.com/KevinMercado1/bancoK)
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧩 Core Technologies
 
